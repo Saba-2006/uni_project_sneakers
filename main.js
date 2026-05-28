@@ -3,24 +3,24 @@
     ══════════════════════════════════════════════════════════ */
 const images = [
   {
-    full: "./imgs/product_001.jpg",
+    full: "./product_001.jpg",
     thumb:
-      "./imgs/product_001.jpg",
+      "./product_001.jpg",
   },
   {
-    full: "./imgs/product_002.jpg",
+    full: "./product_002.jpg",
     thumb:
-      "./imgs/product_002.jpg",
+      "./product_002.jpg",
   },
   {
-    full: "./imgs/product_003.jpg",
+    full: "./product_003.jpg",
     thumb:
-      "./imgs/product_003.jpg",
+      "./product_003.jpg",
   },
   {
-    full: "./imgs/product_004.jpg",
+    full: "./product_004.jpg",
     thumb:
-      "./imgs/product_004.jpg",
+      "./product_004.jpg",
   },
 ];
 
