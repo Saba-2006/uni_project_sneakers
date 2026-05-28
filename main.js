@@ -3,24 +3,24 @@
     ══════════════════════════════════════════════════════════ */
 const images = [
   {
-    full: "./product_001.jpg",
+    full: "product_001.jpg",
     thumb:
-      "./product_001.jpg",
+      "product_001.jpg",
   },
   {
-    full: "./product_002.jpg",
+    full: "product_002.jpg",
     thumb:
-      "./product_002.jpg",
+      "product_002.jpg",
   },
   {
-    full: "./product_003.jpg",
+    full: "product_003.jpg",
     thumb:
-      "./product_003.jpg",
+      "product_003.jpg",
   },
   {
-    full: "./product_004.jpg",
+    full: "product_004.jpg",
     thumb:
-      "./product_004.jpg",
+      "product_004.jpg",
   },
 ];
 
